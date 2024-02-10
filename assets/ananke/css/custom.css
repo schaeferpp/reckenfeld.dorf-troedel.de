@@ -1,0 +1,11 @@
+/*
+ * custom.css
+ * Copyright (C) 2024 Paul Schaefer
+ *
+ * Distributed under terms of the All rights reserved license.
+ */
+
+.fancy-bg {
+    background: rgb(224,210,195);
+    background: linear-gradient(157deg, rgba(224,210,195,1) 0%, rgba(188,216,183,1) 73%);
+}
